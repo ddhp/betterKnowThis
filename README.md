@@ -1,5 +1,4 @@
 #betterKnowThis
-==============
 
 Explain how `this` change in callbacks
 
